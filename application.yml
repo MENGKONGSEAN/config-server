@@ -15,7 +15,7 @@ application:
   name: USER-SERVICE
 
 central_log:
-  client_service: client_service
+  client_service: client_service OK
   api_service: api_service
   account_service: account_service
   fund_service: fund_service
