@@ -20,3 +20,5 @@ central_log:
   account_service: account_service
   fund_service: fund_service
   user_service: user_service
+
+account_db: localhost:3306
