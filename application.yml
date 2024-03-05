@@ -21,4 +21,7 @@ central_log:
   fund_service: fund_service
   user_service: user_service
 
-account_db: localhost:3306
+account_db:
+  url: localhost:3306
+  username: root
+  password: password
