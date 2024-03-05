@@ -25,3 +25,37 @@ account_db:
   url: localhost:3306
   username: root
   password: password
+  ddl-auto: create-drop
+
+account_db:
+  url: localhost:3306
+  username: root
+  password: password
+  ddl-auto: create-drop
+
+
+client_db:
+  url: localhost:3308
+  username: root
+  password: password
+  ddl-auto: create-drop
+
+
+api_db:
+  url: localhost:3307
+  username: root
+  password: password
+  ddl-auto: create-drop
+
+
+fund_db:
+  url: localhost:3309
+  username: root
+  password: password
+  ddl-auto: create-drop
+
+user_db:
+  url: localhost:3310
+  username: root
+  password: password
+  ddl-auto: create-drop
