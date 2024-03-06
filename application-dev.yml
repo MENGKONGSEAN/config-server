@@ -3,3 +3,8 @@ account_db:
   username: root
   password: password
   ddl-auto: create-drop
+
+
+spring:
+  datasource:
+    url: jdbc:mariadb://${account_db.url}/account
