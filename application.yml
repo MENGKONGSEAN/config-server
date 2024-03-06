@@ -22,7 +22,7 @@ central_log:
   user_service: user_service
 
 account_db:
-  url: localhost:33062
+  url: localhost:330621
   username: root
   password: password
   ddl-auto: create-drop
