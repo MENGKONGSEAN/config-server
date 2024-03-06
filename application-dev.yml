@@ -1,5 +1,5 @@
 account_db:
-  url: localhost:3306
+  url: localhost:33062
   username: root
   password: password
   ddl-auto: create-drop
