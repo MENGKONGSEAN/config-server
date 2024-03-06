@@ -27,12 +27,6 @@ account_db:
   password: password
   ddl-auto: create-drop
 
-account_db:
-  url: localhost:3306
-  username: root
-  password: password
-  ddl-auto: create-drop
-
 
 client_db:
   url: localhost:3308
